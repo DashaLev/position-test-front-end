@@ -1,0 +1,24 @@
+.users {
+    width: 65%;
+    background-color: white;
+    box-shadow: 0 0 30px #523F690D;
+    border-radius: 6px;
+    padding-bottom: 35px;
+}
+
+.users-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.users-table td {
+    height: 56px;
+    padding: 0 20px;
+}
+
+.users-table__thead tr {
+    color: #A4A4B5;
+    font-size: 13px;
+}
+
+

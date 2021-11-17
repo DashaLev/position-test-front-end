@@ -1,0 +1,96 @@
+/*.form-wrap {*/
+/*    width: 30%;*/
+/*    background-color: white;*/
+/*    box-shadow: 0px 0px 30px #523F690D;*/
+/*    border-radius: 6px;*/
+/*    padding: 20px;*/
+/*}*/
+/*.form-header {*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    margin-bottom: 15px;*/
+/*}*/
+/*.form-header h3 {*/
+/*    margin: 0;*/
+/*    color:#3F4254;*/
+/*    font-size: 16px;*/
+/*}*/
+
+/*.form-header h3 span {*/
+/*    text-transform: capitalize;*/
+/*}*/
+
+.form-body__label {
+ display: flex;
+ flex-direction: column;
+ margin-bottom: 10px;
+ font-size: 14px;
+ color:#474a5b;
+}
+
+.form-body__label input,
+.form-body__select-list {
+    border-radius: 6px;
+    border-color: transparent;
+    background-color: #eef0f8;
+    outline-color: #837c7c;
+    padding-left: 16px;
+}
+
+.form-body__label input {
+    height: 35px;
+    color:#3F4254;
+}
+
+.form-body__select-list {
+    height: 45px;
+    text-transform: capitalize;
+}
+
+/*.close-button {*/
+/*    width: 24px;*/
+/*    height: 24px;*/
+/*    background: url("close-24px.svg") no-repeat center;*/
+/*}*/
+
+/*.close-button:hover {*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*.buttons {*/
+/*    color: white;*/
+/*    font-size: 14px;*/
+/*    padding: 15px 40px;*/
+/*    box-shadow: 0px 5px 8px #2E8FF029;*/
+/*    border-radius: 6px;*/
+/*    border:none;*/
+/*}*/
+/*.buttons:hover {*/
+/*    cursor: pointer;*/
+/*    background-color: rgba(4, 61, 119, 0.75);*/
+/*}*/
+
+/*.bg-blue {*/
+/*    background-color: #2E8FF0;*/
+/*}*/
+
+/*.bg-red {*/
+/*    background-color: #F44682;*/
+/*}*/
+/*.button-wrap {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    margin-top: 33px;*/
+/*}*/
+
+/*.buttons-wrap {*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    margin-top: 33px;*/
+/*}*/
+/*.buttons:disabled {*/
+/*    background: #ccc;*/
+/*}*/
+.form-body__err-title {
+    color: #F44682;
+}

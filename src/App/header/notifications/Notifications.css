@@ -1,0 +1,27 @@
+.notifications {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.notifications__massage-item {
+    font-size: 13px;
+    padding: 20px 26px;
+    border-radius: 6px;
+    color: white;
+    min-width: 280px;
+    height: 56px;
+    box-sizing: border-box;
+    transition: 500ms;
+}
+
+.notifications__massage-item_green {
+    background-color:  #66BB6A;
+    box-shadow: 0 10px 15px #4CAF505C;
+}
+.notifications__massage-item_red {
+    background: #EF7DA0;
+    box-shadow: 0 10px 15px #EF7DA05C;
+}
+.notifications__massage-item_opacity_hidden {
+    opacity: 0;
+}

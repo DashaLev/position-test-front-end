@@ -1,0 +1,9 @@
+.user-details-create-new-user-form-close-button {
+    width: 24px;
+    height: 24px;
+    background: url("close-24px.svg") no-repeat center;
+}
+
+.user-details-create-new-user-form-close-button:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.user {
+    color: #474a5b;
+    background-color: #ecedf1;
+    border-bottom: 1px solid white;
+}
+
+.user:hover {
+    background-color: #2e8ff0;
+    color: white;
+    cursor: pointer;
+}
+
+.user__item_firstLetter {
+    text-transform: capitalize;
+}
